@@ -3,12 +3,12 @@ entries:
   python-flask-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-09-14T18:44:25.493214+05:30"
+    created: "2022-09-14T19:44:30.644642+05:30"
     description: A Helm chart for Kubernetes
-    digest: bc6b4b2084f5c5e24ed6c0175cb9d456a5ec0467c5d1a99aa00ae5b16faf0d3b
+    digest: 62ce2aca41d581169abd50e69589d84e649a9eaf581ca39d22dd558d0f5343f2
     name: python-flask-app
     type: application
     urls:
     - https://vikas144.github.io/helm-prac/python-flask-app-0.1.0.tgz
     version: 0.1.0
-generated: "2022-09-14T18:44:25.49207+05:30"
+generated: "2022-09-14T19:44:30.643797+05:30"
